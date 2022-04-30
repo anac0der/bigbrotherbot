@@ -13,7 +13,7 @@ class Bot(Keyboard):
     QUESTION_TEXT = 'Привет! Большой Брат очень хочет знать, был(a) ли ты сегодня на парах!'
     WRONG_COMMAND_TEXT = 'Проверь ввод! Разрешенные команды: '
     THANK_TEXT = 'Информация принята. Спасибо!'
-    TOKEN = "af72ff76ba524fbd9812898ef1c33ad5aa8df41da24d8736f2cf3a6f320bb0ba5a8c2690d10ec4ad986b2"
+    TOKEN = ""
     VERSION = '5.131'
     KEYBOARDS = {}
                   
