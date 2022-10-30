@@ -1,2 +1,2 @@
 # Big Brother Bot
-Бот ВКонтакте для проверки посещаемости студентов
+Vkontakte chat bot for checking students attendance
